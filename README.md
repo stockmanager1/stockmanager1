@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 # TIL 
 정리의 필요성을 느꼈습니다.
+
+[TIL](https://github.com/stockmanager1/today-i-learn)
 |날짜|카테고리|배운것|
 |------|---|---|
 |2022-09-20|**알고리즘**,**논문**|[그리디 문제 풀기](https://github.com/stockmanager1/-algorithm---team-study/blob/main/1%EC%A3%BC%EC%B0%A8(2022.09.16~2022-09-23)/%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%8A%A4%ED%84%B0%EB%94%94.ipynb), srcnn 논문 레퍼런스 찾기|
