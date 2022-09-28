@@ -14,4 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 [TIL](https://github.com/stockmanager1/today-i-learn)
 
-
+# 스택
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
