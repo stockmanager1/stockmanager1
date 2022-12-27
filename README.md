@@ -9,10 +9,5 @@ stockmanager1/stockmanager1 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# TIL 
-정리의 필요성을 느꼈습니다.
-
-[TIL](https://github.com/stockmanager1/today-i-learn)
-
 # 스택
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
