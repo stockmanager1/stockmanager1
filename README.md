@@ -11,3 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 # 스택
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rnfrnfrnf1)](https://solved.ac/rnfrnfrnf1)
